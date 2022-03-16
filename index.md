@@ -1,6 +1,6 @@
 ![my_meme](https://user-images.githubusercontent.com/100745235/158490762-c0268e78-ea87-4b57-9075-702e67d1d1fa.png)
 
-# I wanted to do a meme that followed a similar format to memes like the Mr incredible canny meme and the Vince McMahon meme, at first i wanted to use Peter Griffin or Stewie Griffin images but i couldn't find any good ones so i went to Homer and i found much better images.
+## I wanted to do a meme that followed a similar format to memes like the *Mr incredible canny meme* and the *Vince McMahon meme*, at first i wanted to use Peter Griffin or Stewie Griffin images but i couldn't find any good ones so i went to Homer and i found much better images.
 
 library(magick)
 
