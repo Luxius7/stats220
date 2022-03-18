@@ -1,4 +1,4 @@
-# stats220
+# Stats220
 https://github.com/Luxius7/stats220
 ### This repo was made for my statistics assignment 1 where i have to create 2 memes, with one of them being a animated gif.
 
