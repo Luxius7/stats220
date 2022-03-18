@@ -1,6 +1,6 @@
 # Stats220
 https://github.com/Luxius7/stats220
-### This repo was made for my statistics assignment 1 where i have to create tqo things
+### This repo was made for my statistics assignment 1 where i have to create two things
 * a meme
 * a animated gif (doesnt have to be a meme)
 
